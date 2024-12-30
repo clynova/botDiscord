@@ -1,0 +1,15 @@
+# ENV
+# aplication id  
+# public key 
+# secret key discord 
+# token dicord
+
+DISCORD_TOKEN=
+MONGO_URI=
+PREFIX=
+
+
+
+# MongoDB
+#clynovadev
+#BXhEsOVG0pYKgeqG
